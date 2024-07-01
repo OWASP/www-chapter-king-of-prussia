@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Erkin Djindiev](mailto:erkin.djindiev@owasp.org)
+* [Aaron Weaver](mailto:aaron.weaver@owasp.org)
