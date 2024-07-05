@@ -1,7 +1,2 @@
-### King of Prussia Information
-* Provide Group Information
-
-### Social Links
+### OWASP KoP on Social Media
 * [Meetup](#)
-
-
