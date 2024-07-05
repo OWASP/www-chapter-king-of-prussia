@@ -11,6 +11,9 @@ meetup-group:
 
 
 ## Welcome
+
+![OWASP KoP](assets/images/photo-valley-forge-owasp-logo.png)
+
 Welcome to the OWASP King of Prussia Chapter Homepage! As of July 2024, we're excited to begin our journey and look forward to hosting regular meetings in the Philadelphia suburbs. Our aim is to make OWASP events more accessible to those living outside of Philadelphia. King of Prussia, conveniently located at the intersection of major highways, provides an ideal and accessible venue for our events.
 
 ## Participation
