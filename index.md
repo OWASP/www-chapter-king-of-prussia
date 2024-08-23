@@ -28,3 +28,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 {% include chapter_events.html group=page.meetup-group %}
 
 -->
+
+Past Events
+---------------------
+--> 08/22/24 - IDOR Background & LogSnare: Zac Davis & Erkin Djindjiev. @SEVNX Headquarters in KoP
