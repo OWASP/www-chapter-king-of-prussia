@@ -27,7 +27,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
--->
+--> 02/13/25 - Turbocharging SAST in 2025: Sandeep Jayashankar. @SEVNX Headquarters in KoP
 
 Past Events
 ---------------------
