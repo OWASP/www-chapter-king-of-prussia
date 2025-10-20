@@ -1,0 +1,24 @@
+leaders:
+  - name: Erkin Djindjiev
+    email: erkin.djindjiev@owasp.org
+    github: sea-erkin
+  - name: Aaron Weaver
+    email: aaron.weaver@owasp.org
+    github: aaronweaver
+location:
+  country: United States
+  country_code: US
+  region: Pennsylvania
+  city: King of Prussia
+  latitude: 40.0908111
+  longitude: -75.3832484
+name: OWASP King of Prussia
+repositories:
+  - name: www-chapter-king-of-prussia
+    url: https://github.com/OWASP/www-chapter-king-of-prussia
+    description: OWASP Foundation web repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-king-of-prussia
